@@ -3,7 +3,7 @@ layout: default
 title: Daniel Gautheret
 ---
 
-**Professor of Bioinformatics** at the [Institute for Integrative Biology of the Cell (I2BC)](https://www.i2bc.paris-saclay.fr) | [Université Paris-Saclay](https://www.universite-paris-saclay.fr), CNRS, CEA
+**Professor of Bioinformatics** at the [Institute for Integrative Biology of the Cell (I2BC)](https://www.i2bc.paris-saclay.fr), [Université Paris-Saclay](https://www.universite-paris-saclay.fr), CNRS, CEA
 
 # About My Research
 
