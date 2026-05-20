@@ -1,6 +1,4 @@
 YAML
 title: Daniel Gautheret
-description: Professor of Bioinformatics at Université Paris-Saclay
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-  - jekyll-remote-theme
+description: Professor of Bioinformatics
+theme: jekyll-theme-cayman
