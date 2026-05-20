@@ -1,7 +1,4 @@
 ---
-layout: default
-title: Home
----
 # Daniel Gautheret
 **Professor of Bioinformatics** Institute for Integrative Biology of the Cell (I2BC)  
 Université Paris-Saclay, CNRS, CEA  
