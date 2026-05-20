@@ -1,5 +1,4 @@
 ---
-# Daniel Gautheret
 **Professor of Bioinformatics** Institute for Integrative Biology of the Cell (I2BC)  
 Université Paris-Saclay, CNRS, CEA  
 Gif-sur-Yvette, France
@@ -31,10 +30,6 @@ By utilizing k-mer-based alignment-free algorithms, our tools capture hidden tra
 * **Integrative Pan-Cancer Genomic and Transcriptomic Analyses of Refractory Metastatic Cancer.** Pradat Y, Viot J, ..., Cournède PH, **Gautheret D**, Nikolaev SI.
   *Cancer Discovery* (2023). [DOI: 10.1158/2159-8290.CD-22-0966](https://doi.org/10.1158/2159-8290.CD-22-0966)
     *A large-scale multi-omic pan-cancer analysis mapping hypothetical and investigational therapy resistance mechanisms.*
-
-* **Cell-cycle-dependent mRNA localization in P-bodies.** Safieddine A, ..., **Gautheret D**, Walter T, Bertrand E, Bénard M, Weil D.
-  *Molecular Cell* (2024). [DOI: 10.1016/j.molcel.2024.09.011](https://doi.org/10.1016/j.molcel.2024.09.011)
-    *Elucidating the spatial dynamics of mRNA capturing mechanisms within membraneless organelles across the cell cycle.*
 
 ---
 [daniel.gautheret@universite-paris-saclay.fr]
