@@ -1,12 +1,6 @@
-**Professor of Bioinformatics** Institute for Integrative Biology of the Cell (I2BC)  
-Université Paris-Saclay, CNRS, CEA  
-Gif-sur-Yvette, France  
+# About My Research
 
----
-
-## Research Overview
-
-My research stands at the intersection of **computational transcriptomics, non-coding RNA (ncRNA) biology, and oncology**. The core mission of my laboratory is to develop innovative, reference-free computational methods capable of analyzing massive RNA-seq datasets without the bias of standard genomic annotations. 
+My research stands at the intersection of **computational transcriptomics, non-coding RNA (ncRNA) biology, and oncology**. The core mission of my laboratory is to develop innovative, reference-free computational methods capable of analyzing massive RNA-seq datasets without the bias of standard genomic annotations.
 
 By utilizing k-mer-based alignment-free algorithms, our tools capture hidden transcriptional events—such as unannotated long non-coding RNAs (lncRNAs), human endogenous retroviruses (HERVs), and cryptic splicing variations—that are systematically missed by traditional pipelines. We apply these approaches directly to clinical oncology to identify predictive biomarkers for immunotherapy and chemotherapy resistance, and we delve into RNA regulation mechanisms to map complex host-pathogen interactions and intracellular mRNA dynamics.
 
